@@ -6,8 +6,6 @@ using UnityEngine.AI;
 
 public class Mover : MonoBehaviour
 {
-    Ray lastRay;
-
     void Update()
     {
         UpdateAnimator();
