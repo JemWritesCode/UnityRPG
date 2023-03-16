@@ -7,7 +7,7 @@ using UnityEngine.AI;
 using RPG.Core;
 
 namespace RPG.Movement{
-    public class Mover : MonoBehaviour
+    public class Mover : MonoBehaviour, IAction
     {
         [SerializeField] Transform target;
 
@@ -38,6 +38,10 @@ namespace RPG.Movement{
         public void Stop()
         {
             navMeshAgent.isStopped = true;
+        }
+
+        public void Cancel(){
+            
         }
 
         private void UpdateAnimator()
