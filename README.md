@@ -7,3 +7,7 @@ Code from following along with the [GameDev.tv RPG Core Curriculum](https://www.
 [Synty Assets (various packs)](https://syntystore.com/)
 
 [RPG Character Mecanim Animation Pack FREE](https://assetstore.unity.com/packages/3d/animations/rpg-character-mecanim-animation-pack-free-65284)
+
+[Synty Dungeon Pack](https://syntystore.com/products/polygon-dungeon-pack)
+
+[Synty Nature Pack](https://syntystore.com/products/polygon-nature-pack)
