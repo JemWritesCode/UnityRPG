@@ -11,6 +11,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Character_Goblin_Male
       objectReference: {fileID: 0}
+    - target: {fileID: 160858, guid: 2ef59bc5d753ebe4490b708befe65999, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 168536, guid: 2ef59bc5d753ebe4490b708befe65999, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 186252, guid: 2ef59bc5d753ebe4490b708befe65999, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 404400, guid: 2ef59bc5d753ebe4490b708befe65999, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -78,7 +90,7 @@ PrefabInstance:
       objectReference: {fileID: 9000000, guid: b5f71c859f9f9bf41badda8a4650082c, type: 3}
     - target: {fileID: 6231055482005630569, guid: bc093a1ab18d1564ebbaf6f611fb7f85, type: 3}
       propertyPath: m_Name
-      value: Enemy
+      value: ToughEnemy
       objectReference: {fileID: 0}
     - target: {fileID: 6231055482005630573, guid: bc093a1ab18d1564ebbaf6f611fb7f85, type: 3}
       propertyPath: m_RootOrder
@@ -130,7 +142,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7378256826580061499, guid: bc093a1ab18d1564ebbaf6f611fb7f85, type: 3}
       propertyPath: healthPoints
-      value: 40
+      value: 70
       objectReference: {fileID: 0}
     - target: {fileID: 7415335982091728003, guid: bc093a1ab18d1564ebbaf6f611fb7f85, type: 3}
       propertyPath: weaponDamage
