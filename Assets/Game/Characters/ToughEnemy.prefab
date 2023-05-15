@@ -146,7 +146,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7415335982091728003, guid: bc093a1ab18d1564ebbaf6f611fb7f85, type: 3}
       propertyPath: weaponDamage
-      value: 10
+      value: 15
       objectReference: {fileID: 0}
     - target: {fileID: 8693936251648108069, guid: bc093a1ab18d1564ebbaf6f611fb7f85, type: 3}
       propertyPath: m_Enabled
@@ -195,6 +195,7 @@ MonoBehaviour:
   patrolPath: {fileID: 0}
   waypointTolerance: 1
   waypointDwellTime: 3
+  patrolSpeedFraction: 0.2
 --- !u!114 &8851612843668085311
 MonoBehaviour:
   m_ObjectHideFlags: 0
